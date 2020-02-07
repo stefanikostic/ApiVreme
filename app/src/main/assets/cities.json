@@ -1,0 +1,903 @@
+﻿[
+{
+    "id": 863900,
+    "name": "Opština Štip",
+    "country": "MK",
+    "coord": {
+      "lon": 22.200001,
+      "lat": 41.700001
+    }
+  },
+  {
+    "id": 790744,
+    "name": "Gevgelija",
+    "country": "MK",
+    "coord": {
+      "lon": 22.502501,
+      "lat": 41.139172
+    }
+  },
+  {
+    "id": 786565,
+    "name": "Radovish",
+    "country": "MK",
+    "coord": {
+      "lon": 22.46472,
+      "lat": 41.638329
+    }
+  },
+  {
+    "id": 862956,
+    "name": "Opština Makedonska Kamenica",
+    "country": "MK",
+    "coord": {
+      "lon": 22.58333,
+      "lat": 42.049999
+    }
+  },
+  {
+    "id": 789629,
+    "name": "Makedonska Kamenica",
+    "country": "MK",
+    "coord": {
+      "lon": 22.59194,
+      "lat": 42.02
+    }
+  },
+  {
+    "id": 863912,
+    "name": "Opština Vinica",
+    "country": "MK",
+    "coord": {
+      "lon": 22.584169,
+      "lat": 41.859169
+    }
+  },
+  {
+    "id": 784424,
+    "name": "Vinica",
+    "country": "MK",
+    "coord": {
+      "lon": 22.509171,
+      "lat": 41.882778
+    }
+  },
+  {
+    "id": 785058,
+    "name": "Veles",
+    "country": "MK",
+    "coord": {
+      "lon": 21.77556,
+      "lat": 41.715561
+    }
+  },
+  {
+    "id": 786339,
+    "name": "Opština Resen",
+    "country": "MK",
+    "coord": {
+      "lon": 21.01667,
+      "lat": 41.033329
+    }
+  },
+  {
+    "id": 786341,
+    "name": "Resen",
+    "country": "MK",
+    "coord": {
+      "lon": 21.01222,
+      "lat": 41.08889
+    }
+  },
+  {
+    "id": 863855,
+    "name": "Opština Gostivar",
+    "country": "MK",
+    "coord": {
+      "lon": 20.83222,
+      "lat": 41.79306
+    }
+  },
+   {
+    "id": 863860,
+    "name": "Opština Karpoš",
+    "country": "MK",
+    "coord": {
+      "lon": 21.383329,
+      "lat": 42
+    }
+  },
+  {
+    "id": 792523,
+    "name": "Bogdanci",
+    "country": "MK",
+    "coord": {
+      "lon": 22.57556,
+      "lat": 41.20306
+    }
+  },
+  {
+    "id": 785842,
+    "name": "Skopje",
+    "country": "MK",
+    "coord": {
+      "lon": 21.433331,
+      "lat": 42
+    }
+  },
+  {
+    "id": 863486,
+    "name": "Opština Bitola",
+    "country": "MK",
+    "coord": {
+      "lon": 21.316669,
+      "lat": 41.01667
+    }
+  },
+  {
+    "id": 792578,
+    "name": "Bitola",
+    "country": "MK",
+    "coord": {
+      "lon": 21.340281,
+      "lat": 41.031109
+    }
+  },
+  {
+    "id": 863888,
+    "name": "Opština Prilep",
+    "country": "MK",
+    "coord": {
+      "lon": 21.675831,
+      "lat": 41.287781
+    }
+  },
+  {
+    "id": 786735,
+    "name": "Prilep",
+    "country": "MK",
+    "coord": {
+      "lon": 21.55444,
+      "lat": 41.34639
+    }
+  },
+  {
+    "id": 863901,
+    "name": "Opština Struga",
+    "country": "MK",
+    "coord": {
+      "lon": 20.63361,
+      "lat": 41.281391
+    }
+  },
+  {
+    "id": 785387,
+    "name": "Struga",
+    "country": "MK",
+    "coord": {
+      "lon": 20.676109,
+      "lat": 41.178059
+    }
+  },
+  {
+    "id": 863883,
+    "name": "Opština Ohrid",
+    "country": "MK",
+    "coord": {
+      "lon": 20.870279,
+      "lat": 41.130829
+    }
+  },
+  {
+    "id": 787487,
+    "name": "Ohrid",
+    "country": "MK",
+    "coord": {
+      "lon": 20.801941,
+      "lat": 41.117222
+    }
+  },
+  {
+    "id": 863902,
+    "name": "Opština Strumica",
+    "country": "MK",
+    "coord": {
+      "lon": 22.646391,
+      "lat": 41.41111
+    }
+  },
+  {
+    "id": 785380,
+    "name": "Strumica",
+    "country": "MK",
+    "coord": {
+      "lon": 22.64333,
+      "lat": 41.4375
+    }
+  },
+  {
+    "id": 785482,
+    "name": "Shtip",
+    "country": "MK",
+    "coord": {
+      "lon": 22.195829,
+      "lat": 41.745831
+    }
+  },
+  {
+    "id": 863854,
+    "name": "Opština Gevgelija",
+    "country": "MK",
+    "coord": {
+      "lon": 22.4,
+      "lat": 41.200001
+    }
+  },
+  {
+    "id": 863890,
+    "name": "Opština Radoviš",
+    "country": "MK",
+    "coord": {
+      "lon": 22.5,
+      "lat": 41.650002
+    }
+  },
+   {
+    "id": 790295,
+    "name": "Gostivar",
+    "country": "MK",
+    "coord": {
+      "lon": 20.908331,
+      "lat": 41.797218
+    }
+  },
+  {
+    "id": 863881,
+    "name": "Opština Negotino",
+    "country": "MK",
+    "coord": {
+      "lon": 22.15,
+      "lat": 41.51667
+    }
+  },
+  {
+    "id": 787716,
+    "name": "Negotino",
+    "country": "MK",
+    "coord": {
+      "lon": 22.08917,
+      "lat": 41.483891
+    }
+  },
+  {
+    "id": 789541,
+    "name": "Kavadarci",
+    "country": "MK",
+    "coord": {
+      "lon": 22.01194,
+      "lat": 41.43306
+    }
+  },
+  {
+    "id": 862950,
+    "name": "Opština Bogdanci",
+    "country": "MK",
+    "coord": {
+      "lon": 22.6,
+      "lat": 41.200001
+    }
+  },
+  {
+    "id": 863873,
+    "name": "Opština Kumanovo",
+    "country": "MK",
+    "coord": {
+      "lon": 21.772779,
+      "lat": 42.089439
+    }
+  },
+  {
+    "id": 788886,
+    "name": "Kumanovo",
+    "country": "MK",
+    "coord": {
+      "lon": 21.714439,
+      "lat": 42.132221
+    }
+  },
+  {
+    "id": 863862,
+    "name": "Opština Kičevo",
+    "country": "MK",
+    "coord": {
+      "lon": 20.950001,
+      "lat": 41.51667
+    }
+  },
+  {
+    "id": 789527,
+    "name": "Kicevo",
+    "country": "MK",
+    "coord": {
+      "lon": 20.963329,
+      "lat": 41.514439
+    }
+  },
+  {
+    "id": 863905,
+    "name": "Opština Sveti Nikole",
+    "country": "MK",
+    "coord": {
+      "lon": 21.98333,
+      "lat": 41.900002
+    }
+  },
+  {
+    "id": 785201,
+    "name": "Sveti Nikole",
+    "country": "MK",
+    "coord": {
+      "lon": 21.95274,
+      "lat": 41.86956
+    }
+  },
+  {
+    "id": 863700,
+    "name": "Staro Gradsko",
+    "country": "MK",
+    "coord": {
+      "lon": 21.96278,
+      "lat": 41.57222
+    }
+  },
+  {
+    "id": 863831,
+    "name": "Opština Aračinovo",
+    "country": "MK",
+    "coord": {
+      "lon": 21.58333,
+      "lat": 42.049999
+    }
+  },
+  {
+    "id": 793113,
+    "name": "Arachinovo",
+    "country": "MK",
+    "coord": {
+      "lon": 21.561939,
+      "lat": 42.02639
+    }
+  },
+  {
+    "id": 784732,
+    "name": "Opština Valandovo",
+    "country": "MK",
+    "coord": {
+      "lon": 22.532221,
+      "lat": 41.334438
+    }
+  },
+  {
+    "id": 784733,
+    "name": "Valandovo",
+    "country": "MK",
+    "coord": {
+      "lon": 22.56111,
+      "lat": 41.31694
+    }
+  },
+  {
+    "id": 863834,
+    "name": "Opština Bogovinje",
+    "country": "MK",
+    "coord": {
+      "lon": 20.882219,
+      "lat": 41.950279
+    }
+  },
+  {
+    "id": 792501,
+    "name": "Bogovinje",
+    "country": "MK",
+    "coord": {
+      "lon": 20.91361,
+      "lat": 41.923611
+    }
+  },
+  {
+    "id": 863865,
+    "name": "Opština Kočani",
+    "country": "MK",
+    "coord": {
+      "lon": 22.4,
+      "lat": 41.98333
+    }
+  },
+  {
+    "id": 789403,
+    "name": "Kochani",
+    "country": "MK",
+    "coord": {
+      "lon": 22.412781,
+      "lat": 41.916389
+    }
+  },
+  {
+    "id": 863889,
+    "name": "Opština Probištip",
+    "country": "MK",
+    "coord": {
+      "lon": 22.15,
+      "lat": 41.966671
+    }
+  },
+  {
+    "id": 786700,
+    "name": "Probishtip",
+    "country": "MK",
+    "coord": {
+      "lon": 22.17861,
+      "lat": 42.003059
+    }
+  },
+  {
+    "id": 863843,
+    "name": "Opština Debar",
+    "country": "MK",
+    "coord": {
+      "lon": 20.58444,
+      "lat": 41.532501
+    }
+  },
+  {
+    "id": 791606,
+    "name": "Debar",
+    "country": "MK",
+    "coord": {
+      "lon": 20.5275,
+      "lat": 41.525002
+    }
+  },
+  {
+    "id": 863844,
+    "name": "Opština Delčevo",
+    "country": "MK",
+    "coord": {
+      "lon": 22.76667,
+      "lat": 41.933331
+    }
+  },
+  {
+    "id": 791559,
+    "name": "Delchevo",
+    "country": "MK",
+    "coord": {
+      "lon": 22.76944,
+      "lat": 41.96722
+    }
+  },
+  {
+    "id": 862945,
+    "name": "Opština Novo Selo",
+    "country": "MK",
+    "coord": {
+      "lon": 22.9,
+      "lat": 41.416672
+    }
+  },
+  {
+    "id": 787574,
+    "name": "Novo Selo",
+    "country": "MK",
+    "coord": {
+      "lon": 22.881109,
+      "lat": 41.413891
+    }
+  },
+  {
+    "id": 789247,
+    "name": "Kosel",
+    "country": "MK",
+    "coord": {
+      "lon": 20.83556,
+      "lat": 41.174438
+    }
+  },
+  {
+    "id": 863869,
+    "name": "Opština Kriva Palanka",
+    "country": "MK",
+    "coord": {
+      "lon": 22.33333,
+      "lat": 42.25
+    }
+  },
+  {
+    "id": 789045,
+    "name": "Kriva Palanka",
+    "country": "MK",
+    "coord": {
+      "lon": 22.33194,
+      "lat": 42.201939
+    }
+  },
+  {
+    "id": 785639,
+    "name": "Srbinovo",
+    "country": "MK",
+    "coord": {
+      "lon": 20.960279,
+      "lat": 41.70583
+    }
+  },
+  {
+    "id": 863485,
+    "name": "Opština Berovo",
+    "country": "MK",
+    "coord": {
+      "lon": 22.816669,
+      "lat": 41.650002
+    }
+  },
+  {
+    "id": 792656,
+    "name": "Berovo",
+    "country": "MK",
+    "coord": {
+      "lon": 22.85778,
+      "lat": 41.70306
+    }
+  },
+  {
+    "id": 863846,
+    "name": "Opština Demir Hisar",
+    "country": "MK",
+    "coord": {
+      "lon": 21.14389,
+      "lat": 41.28083
+    }
+  },
+  {
+    "id": 787778,
+    "name": "Demir Hisar",
+    "country": "MK",
+    "coord": {
+      "lon": 21.20306,
+      "lat": 41.221668
+    }
+  },
+  {
+    "id": 863871,
+    "name": "Opština Kruševo",
+    "country": "MK",
+    "coord": {
+      "lon": 21.26667,
+      "lat": 41.366669
+    }
+  },
+  {
+    "id": 788961,
+    "name": "Krushevo",
+    "country": "MK",
+    "coord": {
+      "lon": 21.24889,
+      "lat": 41.368889
+    }
+  },
+  {
+    "id": 785092,
+    "name": "Teovo",
+    "country": "MK",
+    "coord": {
+      "lon": 21.571939,
+      "lat": 41.57917
+    }
+  },
+  {
+    "id": 784884,
+    "name": "Trsino",
+    "country": "MK",
+    "coord": {
+      "lon": 22.649719,
+      "lat": 41.91
+    }
+  },
+  {
+    "id": 789090,
+    "name": "Opština Kratovo",
+    "country": "MK",
+    "coord": {
+      "lon": 22.16667,
+      "lat": 42.083328
+    }
+  },
+  {
+    "id": 789091,
+    "name": "Kratovo",
+    "country": "MK",
+    "coord": {
+      "lon": 22.181391,
+      "lat": 42.07917
+    }
+  },
+  {
+    "id": 862961,
+    "name": "Opština Demir Kapija",
+    "country": "MK",
+    "coord": {
+      "lon": 22.25,
+      "lat": 41.383331
+    }
+  },
+  {
+    "id": 791542,
+    "name": "Demir Kapija",
+    "country": "MK",
+    "coord": {
+      "lon": 22.24889,
+      "lat": 41.404999
+    }
+  },
+  {
+    "id": 862946,
+    "name": "Opština Bosilovo",
+    "country": "MK",
+    "coord": {
+      "lon": 22.783331,
+      "lat": 41.466671
+    }
+  },
+  {
+    "id": 792419,
+    "name": "Bosilovo",
+    "country": "MK",
+    "coord": {
+      "lon": 22.727779,
+      "lat": 41.440559
+    }
+  },
+  {
+    "id": 789339,
+    "name": "Kondovo",
+    "country": "MK",
+    "coord": {
+      "lon": 21.31361,
+      "lat": 42.011669
+    }
+  },
+  {
+    "id": 863616,
+    "name": "Patec",
+    "country": "MK",
+    "coord": {
+      "lon": 21.112221,
+      "lat": 41.542221
+    }
+  },
+  {
+    "id": 790532,
+    "name": "Belica",
+    "country": "MK",
+    "coord": {
+      "lon": 21.30444,
+      "lat": 41.676109
+    }
+  },
+  {
+    "id": 863631,
+    "name": "Dolna Belica",
+    "country": "MK",
+    "coord": {
+      "lon": 21.27861,
+      "lat": 41.681671
+    }
+  },
+  {
+    "id": 788807,
+    "name": "Laki",
+    "country": "MK",
+    "coord": {
+      "lon": 22.669439,
+      "lat": 41.79694
+    }
+  },
+  {
+    "id": 786425,
+    "name": "Ratevo",
+    "country": "MK",
+    "coord": {
+      "lon": 22.85,
+      "lat": 41.683331
+    }
+  },
+  {
+    "id": 863488,
+    "name": "Opština Mogila",
+    "country": "MK",
+    "coord": {
+      "lon": 21.43556,
+      "lat": 41.158058
+    }
+  },
+  {
+    "id": 787877,
+    "name": "Mogila",
+    "country": "MK",
+    "coord": {
+      "lon": 21.378611,
+      "lat": 41.10833
+    }
+  },
+  {
+    "id": 786718,
+    "name": "Prisojnica",
+    "country": "MK",
+    "coord": {
+      "lon": 20.610279,
+      "lat": 41.58139
+    }
+  },
+  {
+    "id": 790333,
+    "name": "Gorno Jelovci",
+    "country": "MK",
+    "coord": {
+      "lon": 20.789721,
+      "lat": 41.80722
+    }
+  },
+  {
+    "id": 784902,
+    "name": "Trnovo",
+    "country": "MK",
+    "coord": {
+      "lon": 21.25,
+      "lat": 41.043892
+    }
+  },
+  {
+    "id": 787383,
+    "name": "Orovnik",
+    "country": "MK",
+    "coord": {
+      "lon": 20.754169,
+      "lat": 41.173328
+    }
+  },
+  {
+    "id": 787827,
+    "name": "Мралино",
+    "country": "MK",
+    "coord": {
+      "lon": 21.60194,
+      "lat": 41.95694
+    }
+  },
+   {
+    "id": 863919,
+    "name": "Opština Želino",
+    "country": "MK",
+    "coord": {
+      "lon": 21.133329,
+      "lat": 41.933331
+    }
+  },
+  {
+    "id": 783926,
+    "name": "Zhelino",
+    "country": "MK",
+    "coord": {
+      "lon": 21.064171,
+      "lat": 41.980282
+    }
+  },
+  {
+    "id": 863906,
+    "name": "Opština Tearce",
+    "country": "MK",
+    "coord": {
+      "lon": 21.049999,
+      "lat": 42.099998
+    }
+  },
+  {
+    "id": 785113,
+    "name": "Tearce",
+    "country": "MK",
+    "coord": {
+      "lon": 21.0525,
+      "lat": 42.07444
+    }
+  },
+  {
+    "id": 785345,
+    "name": "Studenichani",
+    "country": "MK",
+    "coord": {
+      "lon": 21.53056,
+      "lat": 41.915829
+    }
+  },
+  {
+    "id": 863894,
+    "name": "Opština Saraj",
+    "country": "MK",
+    "coord": {
+      "lon": 21.26667,
+      "lat": 41.98333
+    }
+  },
+  {
+    "id": 786093,
+    "name": "Saraj",
+    "country": "MK",
+    "coord": {
+      "lon": 21.32778,
+      "lat": 42
+    }
+  },
+  {
+    "id": 787715,
+    "name": "Negotino",
+    "country": "MK",
+    "coord": {
+      "lon": 20.88389,
+      "lat": 41.878609
+    }
+  },
+  {
+    "id": 863875,
+    "name": "Opština Lipkovo",
+    "country": "MK",
+    "coord": {
+      "lon": 21.6,
+      "lat": 42.166672
+    }
+  },
+  {
+    "id": 788654,
+    "name": "Lipkovo",
+    "country": "MK",
+    "coord": {
+      "lon": 21.585279,
+      "lat": 42.156391
+    }
+  },
+  {
+    "id": 789611,
+    "name": "Kamenjane",
+    "country": "MK",
+    "coord": {
+      "lon": 20.92667,
+      "lat": 41.944439
+    }
+  },
+  {
+    "id": 863835,
+    "name": "Opština Brvenica",
+    "country": "MK",
+    "coord": {
+      "lon": 21.033331,
+      "lat": 41.883331
+    }
+  },
+  {
+    "id": 792227,
+    "name": "Brvenica",
+    "country": "MK",
+    "coord": {
+      "lon": 20.980829,
+      "lat": 41.96722
+    }
+  },
+  {
+    "id": 863856,
+    "name": "Opština Ilinden",
+    "country": "MK",
+    "coord": {
+      "lon": 21.633329,
+      "lat": 42
+    }
+  }
+
+  ]
